@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2a6fcea-9fde-435a-a247-b3e1c28d873a": {
+      "ProjectGuid": "c2a6fcea-9fde-435a-a247-b3e1c28d873a",
+      "DisplayName": "CompileTimeApp",
+      "ColorIndex": 0
+    },
+    "b9f706f1-9eca-4bfd-a2dc-a88136b12ebb": {
+      "ProjectGuid": "b9f706f1-9eca-4bfd-a2dc-a88136b12ebb",
+      "DisplayName": "Area",
+      "ColorIndex": 1
+    },
+    "46983d66-13e6-49b1-8c34-747c31602975": {
+      "ProjectGuid": "46983d66-13e6-49b1-8c34-747c31602975",
+      "DisplayName": "Area.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
